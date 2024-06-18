@@ -11,8 +11,6 @@ Here are some of the key technologies and tools I work with:
 ![TypeScript Badge](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=flat-square)
 ![Node.js Badge](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
 
-## 👔 Bizness
-
 Feel free to reach out to me for any professional inquiries or collaborations.
 
 - 📎 [My Resume/CV](https://flowcv.com/resume/p3earaqk0i)
