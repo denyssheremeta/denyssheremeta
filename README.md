@@ -20,4 +20,4 @@ Thanks for visiting my profile! Let's build something amazing together. 🚀
 
 ---
 
-_You can also find me on [LinkedIn](https://www.linkedin.com/in/denyssheremeta)
+You can also find me on [LinkedIn](https://www.linkedin.com/in/denyssheremeta)
