@@ -13,7 +13,7 @@ Here are some of the key technologies and tools I work with:
 
 Feel free to reach out to me for any professional inquiries or collaborations.
 
-- 📎 [My Resume/CV](https://drive.google.com/file/d/18KiQHBbXcdj4_FT3wROQa4HErlLmDM1R/view?usp=drive_link)
+- 📎 [My Resume/CV](https://drive.google.com/file/d/1QkXQoyxCkKPAWPA0YraRfS4Y6Yav65A7/view?usp=sharing)
 - 📧 Email: denys.sheremeta.web@gmail.com
 
 Thanks for visiting my profile! Let's build something amazing together. 🚀
